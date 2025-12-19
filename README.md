@@ -56,17 +56,5 @@ Virtual Tours: Pannellum.js
 
 AI Features: 
 
----
-Demo 📽️
 
-👉 https://youtu.be/tTo1QDjLDDU?si=4Ns2IRAuzs4HW2H7
 
----
-### Team : CulturalCoders 
-
-[@Jhanvi patel](https://github.com/jhanvi857) <br>
-[@Darshi prajapati ](https://github.com/darshi1707) <br>
-[@Divyesh sathwara ](https://github.com/Divyesh7s) <br>
-[@Ved chaudhary](https://github.com/VDChaudhary) <br>
-[@Sanket patel](https://github.com/SanketPatel2007) <br>
-[@Dhruv rathod ](https://github.com/dhruv45396) <br>
